@@ -15,6 +15,7 @@
       "hero",
       "cards",
       "columns",
+      "menu",
       "fragment"
     ]
   },
@@ -37,6 +38,49 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "header-bar",
+    "components": [
+      "headerbarItem"
+    ]
+  },
+  {
+    "id": "horizontal-vertical",
+    "components": [
+      "vertical-card",
+      "title-description"
+    ]
+  },
+  {
+    "id": "media-grid",
+    "components": [
+      "media-grid-item"
+    ]
+  },
+  {
+    "id": "menu",
+    "components": [
+      "menuItem"
+    ]
+  },
+  {
+    "id": "menuItem",
+    "components": [
+      "subItem"
+    ]
+  },
+  {
+    "id": "sciex-columns",
+    "components": [
+      "sciex-card"
+    ]
+  },
+  {
+    "id": "tabs",
+    "components": [
+      "tabItem"
     ]
   }
 ]
